@@ -1,0 +1,32 @@
+//elements.txt
+VS -> Start Screen
+VM -> Main Menu
+
+
+optionsVS
+5
+(D) Brandon,
+(M) Lindsey,
+(G) Gianna, 
+(A) Arianna, or 
+(B) Bella
+
+optionsVM
+5
+(S) Spin the Prize Wheel,
+(G) Guess the Number to Win,
+(P) Play a Game,
+(C) Change user,
+(E) Exit
+
+optionsVS
+(S) Spin the Wheel Again,
+(M) Go Back to Main Menu,
+(C) Change Players, or 
+(E) Exit
+
+optionsVYN
+2
+(Y) Yes, or
+(N) No.
+    
