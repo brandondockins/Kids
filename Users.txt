@@ -1,0 +1,48 @@
+// User information
+
+/*
+Name
+NickName
+Age
+birthday
+birthmonth
+*/
+
+Number of users:
+(**)
+5
+
+[]
+Brandon
+BamBam
+28
+7
+7
+
+[]
+Lindsey
+Saucey
+26
+5
+3
+
+[]
+Gianna Lynn
+Gia Bobia
+4
+8
+28
+
+[]
+Isabella Rose
+Bella Bear
+0
+10
+15
+
+[]
+Arianna Noel
+Ari Bari
+2
+6
+15
